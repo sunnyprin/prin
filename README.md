@@ -1,0 +1,2 @@
+# prin
+to learn python
